@@ -1,0 +1,8 @@
+D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculateTests\bin\Debug\GroupColumnCalculateTests.dll
+D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculateTests\bin\Debug\GroupColumnCalculateTests.pdb
+D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculateTests\bin\Debug\ExpectedObjects.dll
+D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculateTests\bin\Debug\GroupColumnCalculate.dll
+D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculateTests\bin\Debug\GroupColumnCalculate.pdb
+D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculateTests\obj\Debug\GroupColumnCalculateTests.csprojResolveAssemblyReference.cache
+D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculateTests\obj\Debug\GroupColumnCalculateTests.dll
+D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculateTests\obj\Debug\GroupColumnCalculateTests.pdb
