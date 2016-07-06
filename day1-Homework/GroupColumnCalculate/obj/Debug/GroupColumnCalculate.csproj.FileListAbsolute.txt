@@ -2,3 +2,8 @@ D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalcul
 D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculate\bin\Debug\GroupColumnCalculate.pdb
 D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculate\obj\Debug\GroupColumnCalculate.dll
 D:\使用者\08198\桌面\_pgm\TDD\day1-Homework\day1-Homework\GroupColumnCalculate\obj\Debug\GroupColumnCalculate.pdb
+D:\使用者\08198\桌面\_pgm\TDD\TDD_Day1\day1-Homework\GroupColumnCalculate\bin\Debug\GroupColumnCalculate.dll
+D:\使用者\08198\桌面\_pgm\TDD\TDD_Day1\day1-Homework\GroupColumnCalculate\bin\Debug\GroupColumnCalculate.pdb
+D:\使用者\08198\桌面\_pgm\TDD\TDD_Day1\day1-Homework\GroupColumnCalculate\obj\Debug\GroupColumnCalculate.csprojResolveAssemblyReference.cache
+D:\使用者\08198\桌面\_pgm\TDD\TDD_Day1\day1-Homework\GroupColumnCalculate\obj\Debug\GroupColumnCalculate.dll
+D:\使用者\08198\桌面\_pgm\TDD\TDD_Day1\day1-Homework\GroupColumnCalculate\obj\Debug\GroupColumnCalculate.pdb
