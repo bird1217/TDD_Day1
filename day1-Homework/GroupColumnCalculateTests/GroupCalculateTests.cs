@@ -13,7 +13,7 @@ namespace GroupColumnCalculate.Tests
     public class GroupCalculateTests
     {
         [TestMethod()]
-        public void Test_For_Id_3Item_Subtotal()
+        public void Test_For_Cost_3Item_Subtotal()
         {
             //Arrange            
             List<Order> Orders = this.GetOrderContext();
@@ -21,7 +21,7 @@ namespace GroupColumnCalculate.Tests
             GroupCalculate _target = new GroupCalculate();
 
             //Act                                
-            List<int> _actual = _target.GroupColumnCalculate(Orders, 3, "Id");
+            List<int> _actual = _target.GroupColumnCalculate(Orders, 3, "Cost");
 
             //Assert
             _expceted.ToExpectedObject().ShouldEqual(_actual);
@@ -34,7 +34,6 @@ namespace GroupColumnCalculate.Tests
             //Arrange            
             List<Order> Orders = this.GetOrderContext();
             List<int> _expceted = new List<int>() { 50, 66, 60 };
-
             GroupCalculate _target = new GroupCalculate();
 
             //Act
